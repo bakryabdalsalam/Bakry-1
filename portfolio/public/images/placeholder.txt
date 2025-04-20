@@ -1,0 +1,18 @@
+The following image files would be needed for the portfolio:
+
+1. hero-image.jpg - Profile photo for the hero section
+2. about-image.jpg - Image for the about section
+3. ecommerce.jpg - Project image for e-commerce project
+4. dashboard.jpg - Project image for dashboard project
+5. social.jpg - Project image for social media project
+6. task-management.jpg - Project image for task management project
+7. weather.jpg - Project image for weather app project
+8. portfolio.jpg - Project image for portfolio project
+9. testimonial1.jpg - Image for first testimonial
+10. testimonial2.jpg - Image for second testimonial
+11. testimonial3.jpg - Image for third testimonial
+
+In a real project, these would be actual image files. For now, you can use placeholder images from services like:
+- https://placehold.co/
+- https://placeholder.com/
+- https://picsum.photos/ 
